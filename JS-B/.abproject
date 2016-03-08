@@ -1,0 +1,45 @@
+{
+  "ProjectName": "JS-B",
+  "ProjectGuid": "fae45fca-c54b-4150-9ebc-8c248175ed7b",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.JSB",
+  "DisplayName": "JS-B",
+  "Author": "",
+  "Description": "JS-B",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{275a765c-66c0-4972-a54b-1d035d03c509}",
+  "WP8ProductID": "{5b3edf01-f8ec-49dc-a16e-6249aaf03d2e}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.JSB",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
